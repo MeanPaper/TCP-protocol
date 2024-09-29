@@ -1,2 +1,2 @@
 # TCP-protocol
-An implementation of TCP using UDP
+An implementation of TCP-like protocol using UDP.
